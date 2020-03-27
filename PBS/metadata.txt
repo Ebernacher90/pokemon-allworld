@@ -1,0 +1,560 @@
+﻿[000]
+PlayerA=PkMnTRAINER_M,Gold.png,Gold-onbike.png,PKMN-SURF_A.png,Gold.png,PKMN-SURF_A.png,Gold-fishing.png,PKMN-SURF_A.png
+PlayerB=PkMnTRAINER_F,Crystal.png,Crystal-onbike.png,PKMN-SURF_B.png,Crystal.png,PKMN-SURF_B.png,Crystal-fishing.png,PKMN-SURF_B.png
+TrainerVictoryME=001-Victory01.mid
+WildVictoryME=001-Victory01.mid
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,13,8,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Intro
+[002]
+# Haus von \PN
+SnapEdges=true
+MapPosition=0,20,12
+Outdoor=false
+HealingSpot=2,15,8
+ShowArea=true
+[003]
+# Haus von \PN Untergeschoss
+SnapEdges=true
+MapPosition=0,20,12
+ShowArea=true
+[004]
+# Alabastia
+Bicycle=true
+MapPosition=1,11,11
+Outdoor=true
+BicycleAlways=false
+HealingSpot=4,5,6
+ShowArea=true
+[005]
+# Labor Alabastia
+SnapEdges=true
+MapPosition=0,20,12
+ShowArea=true
+[006]
+# Route 1
+BattleBack=Route1
+Bicycle=true
+MapPosition=1,11,10
+Outdoor=true
+ShowArea=true
+[007]
+# Vertaniacity
+Bicycle=true
+MapPosition=1,11,9
+Outdoor=true
+ShowArea=true
+[008]
+# PokéCenter Vertaniacity
+MapPosition=0,19,12
+Outdoor=false
+ShowArea=true
+[009]
+# PokéMarkt Vertaniacity
+MapPosition=0,19,12
+ShowArea=true
+[010]
+# Haus des Rivalen
+MapPosition=0,18,11
+Outdoor=false
+ShowArea=true
+[011]
+# Indigo Plateau Rezeption
+MapPosition=0,18,11
+HealingSpot=10,16,28
+[012]
+# Route 1 fill
+Bicycle=true
+MapPosition=1,10,10
+Outdoor=true
+ShowArea=false
+[013]
+# Route 1 fill 2
+Bicycle=true
+MapPosition=1,12,10
+Outdoor=true
+[014]
+# Route 2
+BattleBack=Route2
+Bicycle=true
+MapPosition=1,11,8
+Outdoor=true
+ShowArea=true
+[015]
+# Route 2 Fill
+Bicycle=true
+MapPosition=1,10,8
+Outdoor=true
+ShowArea=false
+[016]
+# Route 22
+BattleBack=Route22
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+ShowArea=true
+[017]
+# Mamoriacity
+MapPosition=0,18,11
+[018]
+# Vertania Wald
+BattleBack=VertaniaWald
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+ShowArea=true
+[019]
+# Route 3
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+ShowArea=true
+[020]
+# Route 4
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+ShowArea=true
+[021]
+# Route 4 fill
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+ShowArea=false
+[022]
+# Mondberg 1. Etagge
+Bicycle=true
+MapPosition=0,18,11
+ShowArea=true
+[023]
+# Mondberg 1. Untergeschoss
+Bicycle=true
+MapPosition=0,18,11
+ShowArea=true
+[024]
+# Mondberg 1. Untergeschoss A
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=false
+ShowArea=true
+[025]
+# Mondberg 1. Untergeschoss B
+Bicycle=true
+MapPosition=0,18,11
+ShowArea=true
+[026]
+# Mondberg 1. Untergeschoss C
+Bicycle=true
+MapPosition=0,18,11
+ShowArea=true
+[027]
+# Mondberg 1. Etage A
+Bicycle=true
+MapPosition=0,18,11
+ShowArea=true
+[028]
+# Azuriacity
+Bicycle=true
+MapPosition=0,18,10
+Outdoor=true
+ShowArea=true
+[029]
+# Route 22 fill
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=false
+[030]
+# Alabastia Fill
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=false
+[031]
+# Alabastia fill 2
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+HealingSpot=29,15,18
+ShowArea=false
+[032]
+# Vertania City fill
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=false
+[033]
+# Route 1/22 fill
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=false
+[034]
+# Route 4 fill 2
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=false
+[035]
+# Route 4/Azuriacity fill
+Bicycle=true
+MapPosition=0,18,8
+Outdoor=true
+ShowArea=false
+[036]
+# Route 2 fill 2
+Bicycle=true
+MapPosition=0,18,8
+Outdoor=true
+[037]
+# Route 24
+Bicycle=true
+MapPosition=0,18,8
+Outdoor=true
+ShowArea=true
+[038]
+# Route 25
+Bicycle=true
+MapPosition=0,20,9
+Outdoor=true
+ShowArea=true
+[039]
+# Bills Haus
+Bicycle=false
+MapPosition=0,21,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[040]
+# Mamoria Museum 1. Etage
+Bicycle=false
+MapPosition=0,21,10
+Outdoor=false
+ShowArea=true
+[041]
+# Mamoria Museum 2. Etage
+Bicycle=false
+MapPosition=0,20,10
+Outdoor=false
+ShowArea=true
+[042]
+# Route 9
+Bicycle=true
+MapPosition=0,20,10
+DarkMap=false
+Outdoor=true
+ShowArea=true
+[043]
+# Mamoriacity Arena
+Bicycle=false
+Dungeon=false
+MapPosition=0,20,10
+Outdoor=false
+BicycleAlways=false
+[044]
+# PokéCenter Mamoria City
+DiveMap=45
+MapPosition=1,9,12
+Outdoor=true
+ShowArea=true
+[045]
+# PokéCenter vorm Mondberg
+MapPosition=1,9,12
+[046]
+# Route 3 fill
+Bicycle=true
+MapPosition=1,7,11
+Outdoor=true
+ShowArea=false
+[047]
+# Route 5
+Bicycle=true
+MapPosition=1,9,12
+[048]
+# Route 9/5 Fill
+Bicycle=true
+MapPosition=1,9,7
+Outdoor=true
+BicycleAlways=false
+ShowArea=false
+[049]
+# Saffroniacity
+MapPosition=1,9,7
+HealingSpot=48,13,6
+[050]
+# Route 21
+Bicycle=true
+MapPosition=1,9,7
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[051]
+# Route 21 Fill
+Bicycle=true
+MapPosition=1,9,7
+Outdoor=true
+BicycleAlways=false
+ShowArea=false
+[052]
+# Zinoberinsel
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+HealingSpot=52,11,11
+ShowArea=true
+[053]
+# Zinoberinsel Fill
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+HealingSpot=52,11,11
+ShowArea=false
+[054]
+# Route 10
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+HealingSpot=54,11,28
+ShowArea=true
+[055]
+# Route 20
+MapPosition=0,16,9
+[056]
+# Route 20 Fill
+MapPosition=0,16,9
+[057]
+# Route 19
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[058]
+# Route 19 Fill
+MapPosition=0,16,9
+[059]
+# Fuchsaniacity
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+HealingSpot=59,22,31
+ShowArea=true
+[060]
+# PokéCenter Azuriacity
+MapPosition=0,16,9
+[061]
+# Azuriacity Arena
+MapPosition=0,16,9
+[062]
+# Route 18
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[063]
+# Route 17
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[064]
+# Route 16
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[065]
+# Prismaniacity
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[066]
+# Route 7
+Bicycle=true
+MapPosition=0,18,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[067]
+# Prismaniacity Fill
+Bicycle=false
+MapPosition=1,11,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=false
+[068]
+# Route 7 Prismaniacity Fill
+Bicycle=true
+MapPosition=1,11,8
+Outdoor=true
+BicycleAlways=false
+HealingSpot=67,11,28
+ShowArea=false
+[069]
+# Route 6
+Bicycle=true
+MapPosition=1,11,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[070]
+# Oraniacity
+Bicycle=true
+MapPosition=1,11,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[071]
+# Route 8
+Bicycle=true
+MapPosition=1,12,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[072]
+# Lavandia
+Bicycle=true
+MapPosition=1,12,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[073]
+# Route 11
+Bicycle=true
+MapPosition=1,12,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[074]
+# Route 12
+Bicycle=true
+MapPosition=1,13,9
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[075]
+# Route 13
+Bicycle=true
+MapPosition=1,12,11
+Outdoor=true
+ShowArea=true
+[076]
+# Route 14
+Bicycle=true
+MapPosition=1,12,11
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[077]
+# Route 15
+Bicycle=true
+MapPosition=1,12,11
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[078]
+# Mamoriacity Fill
+MapPosition=1,11,11
+Outdoor=true
+ShowArea=true
+[079]
+# Mamoriacity Fill 2
+MapPosition=1,11,11
+HealingSpot=78,7,12
+[080]
+# Route 8/11 Fill
+MapPosition=1,11,11
+[081]
+# Route 11/13/14 Fill
+MapPosition=1,11,11
+[082]
+# Oraniacity Fill
+Bicycle=true
+MapPosition=1,11,10
+SafariMap=true
+ShowArea=true
+[083]
+# Prismaniacity Fill 2
+MapPosition=1,11,11
+[084]
+# Route 7 Fill
+MapPosition=1,11,11
+[085]
+# Trainerschule Vertania City
+MapPosition=1,10,11
+Outdoor=true
+ShowArea=true
+[086]
+# Route 14 Fill
+Weather=Storm,50
+MapPosition=1,17,14
+Outdoor=true
+ShowArea=true
+[087]
+# Route 18 Fill
+MapPosition=1,21,15
+Outdoor=true
+ShowArea=true
+[139]
+# Felstunnel Etage 1
+DarkMap=true
+Outdoor=false
+ShowArea=true
+[140]
+# Felstunnel Etage 2
+Bicycle=true
+DarkMap=true
+Outdoor=false
+ShowArea=true
+[143]
+# Lavandiaturm EG
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[144]
+# Lavandiaturm 1S
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[145]
+# Lavandiaturm 2S
+BattleBack=lavandiaturm
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[146]
+# Lavandiaturm 3S
+BattleBack=lavandiaturmBicycle=false
+Outdoor=false
+ShowArea=true
+[147]
+# Lavandiaturm 4S
+BattleBack=lavandiaturm
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[148]
+# Lavandiaturm 5S
+BattleBack=lavandiaturm
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[149]
+# Lavandiaturm 6S
+BattleBack=lavandiaturm
+Bicycle=false
+Outdoor=false
+ShowArea=true

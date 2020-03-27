@@ -1,0 +1,692 @@
+# Azuriacity (28) - Route 5 (47)
+28,South,0,47,North,0
+# Route 7 (66) - Route 5 (47)
+66,East,0,47,West,48
+# Route 14 (76) - Route 5 (47)
+76,West,0,47,East,174
+# Route 25 (38) - Route 5 (47)
+38,West,116,47,East,0
+# Route 9/5 Fill (48) - Route 5 (47)
+48,West,0,47,East,0
+# Route 4 (20) - Route 5 (47)
+20,East,30,47,West,0
+# Route 7 Prismaniacity Fill (68) - Route 5 (47)
+68,East,0,47,West,18
+# Saffroniacity (49) - Route 5 (47)
+49,North,0,47,South,0
+# Route 9 (42) - Route 5 (47)
+42,West,36,47,East,0
+# Route 8/11 Fill (80) - Route 5 (47)
+80,West,0,47,East,76
+# Route 8 (71) - Route 5 (47)
+71,West,0,47,East,40
+# Route 11/13/14 Fill (81) - Route 5 (47)
+81,West,0,47,East,139
+# Route 4 fill 2 (34) - Route 5 (47)
+34,East,45,47,West,0
+# Route 4/Azuriacity fill (35) - Route 5 (47)
+35,East,7,47,West,0
+# Route 11 (73) - Route 5 (47)
+73,West,0,47,East,118
+# Route 7 Fill (84) - Route 5 (47)
+84,East,0,47,West,93
+# Route 7 (66) - Azuriacity (28)
+66,East,0,28,West,84
+# Route 14 (76) - Azuriacity (28)
+76,West,0,28,East,210
+# Route 25 (38) - Azuriacity (28)
+38,West,80,28,East,0
+# Route 9/5 Fill (48) - Azuriacity (28)
+48,West,0,28,East,36
+# Route 4 (20) - Azuriacity (28)
+20,East,0,28,West,6
+# Route 7 Prismaniacity Fill (68) - Azuriacity (28)
+68,East,0,28,West,54
+# Route 9 (42) - Azuriacity (28)
+42,West,0,28,East,0
+# Route 8/11 Fill (80) - Azuriacity (28)
+80,West,0,28,East,112
+# Route 8 (71) - Azuriacity (28)
+71,West,0,28,East,76
+# Route 11/13/14 Fill (81) - Azuriacity (28)
+81,West,0,28,East,175
+# Route 4 fill 2 (34) - Azuriacity (28)
+34,East,9,28,West,0
+# Route 4/Azuriacity fill (35) - Azuriacity (28)
+35,East,0,28,West,29
+# Route 11 (73) - Azuriacity (28)
+73,West,0,28,East,154
+# Route 7 Fill (84) - Azuriacity (28)
+84,East,0,28,West,129
+# Route 24 (37) - Azuriacity (28)
+37,South,0,28,North,0
+# Prismaniacity Fill (67) - Route 7 (66)
+67,East,0,66,West,0
+# Route 7 Prismaniacity Fill (68) - Route 7 (66)
+68,South,39,66,North,0
+# Saffroniacity (49) - Route 7 (66)
+49,West,8,66,East,0
+# Route 6 (69) - Route 7 (66)
+69,West,0,66,East,28
+# Mamoriacity Fill 2 (79) - Route 7 (66)
+79,South,198,66,North,0
+# Oraniacity (70) - Route 7 (66)
+70,West,0,66,East,63
+# Oraniacity Fill (82) - Route 7 (66)
+82,West,0,66,East,99
+# Prismaniacity Fill 2 (83) - Route 7 (66)
+83,East,0,66,West,56
+# Mamoriacity (17) - Route 7 (66)
+17,South,178,66,North,0
+# Prismaniacity (65) - Route 7 (66)
+65,East,0,66,West,20
+# Route 3 fill (46) - Route 7 (66)
+46,South,129,66,North,0
+# Route 7 Fill (84) - Route 7 (66)
+84,North,0,66,South,0
+# Route 24 (37) - Route 7 (66)
+37,West,164,66,East,0
+# Route 14 Fill (86) - Route 14 (76)
+86,West,0,76,East,40
+# Route 15 (77) - Route 14 (76)
+77,East,0,76,West,22
+# Saffroniacity (49) - Route 14 (76)
+49,East,134,76,West,0
+# Route 6 (69) - Route 14 (76)
+69,East,98,76,West,0
+# Oraniacity (70) - Route 14 (76)
+70,East,63,76,West,0
+# Route 11/13/14 Fill (81) - Route 14 (76)
+81,South,0,76,North,0
+# Oraniacity Fill (82) - Route 14 (76)
+82,East,27,76,West,0
+# Route 12 (74) - Route 14 (76)
+74,South,0,76,North,59
+# Route 24 (37) - Route 14 (76)
+37,East,290,76,West,0
+# Route 13 (75) - Route 14 (76)
+75,West,0,76,East,0
+# Route 4 (20) - Route 3 (19)
+20,South,0,19,North,48
+# Route 7 Prismaniacity Fill (68) - Route 3 (19)
+68,West,0,19,East,25
+# Route 4 fill (21) - Route 3 (19)
+21,South,0,19,North,28
+# Mamoriacity Fill (78) - Route 3 (19)
+78,East,21,19,West,0
+# Route 4/Azuriacity fill (35) - Route 3 (19)
+35,West,0,19,East,0
+# Mamoriacity (17) - Route 3 (19)
+17,East,0,19,West,4
+# Route 3 fill (46) - Route 3 (19)
+46,North,0,19,South,0
+# Route 19 Fill (58) - Route 19 (57)
+58,East,0,57,West,0
+# Route 15 (77) - Route 19 (57)
+77,West,66,57,East,0
+# Fuchsaniacity (59) - Route 19 (57)
+59,South,10,57,North,0
+# Route 19 Fill 2 (88) - Route 19 (57)
+88,North,0,57,South,0
+# Route 20 Fill 2 (89) - Route 19 (57)
+89,North,107,57,South,0
+# Zinnoberinsel Fill 2 (90) - Route 19 (57)
+90,North,142,57,South,0
+# Route 18 (62) - Route 19 (57)
+62,South,70,57,North,0
+# Route 20 (55) - Route 19 (57)
+55,East,0,57,West,44
+# Route 15 (77) - Route 25 (38)
+77,East,0,38,West,312
+# Saffroniacity (49) - Route 25 (38)
+49,East,0,38,West,156
+# Route 6 (69) - Route 25 (38)
+69,East,0,38,West,192
+# Oraniacity (70) - Route 25 (38)
+70,East,0,38,West,227
+# Route 9 (42) - Route 25 (38)
+42,North,0,38,South,0
+# Oraniacity Fill (82) - Route 25 (38)
+82,East,0,38,West,263
+# Route 10 (54) - Route 25 (38)
+54,North,0,38,South,59
+# Route 24 (37) - Route 25 (38)
+37,East,0,38,West,0
+# Route 15 (77) - Route 9/5 Fill (48)
+77,East,0,48,West,196
+# Saffroniacity (49) - Route 9/5 Fill (48)
+49,North,40,48,South,0
+# Route 6 (69) - Route 9/5 Fill (48)
+69,East,0,48,West,76
+# Oraniacity (70) - Route 9/5 Fill (48)
+70,East,0,48,West,111
+# Route 9 (42) - Route 9/5 Fill (48)
+42,South,0,48,North,0
+# Route 8 (71) - Route 9/5 Fill (48)
+71,North,0,48,South,0
+# Lavandia (72) - Route 9/5 Fill (48)
+72,West,0,48,East,43
+# Oraniacity Fill (82) - Route 9/5 Fill (48)
+82,East,0,48,West,147
+# Route 10 (54) - Route 9/5 Fill (48)
+54,West,36,48,East,0
+# Route 12 (74) - Route 9/5 Fill (48)
+74,West,0,48,East,61
+# Route 24 (37) - Route 9/5 Fill (48)
+37,East,116,48,West,0
+# Route 13 (75) - Route 14 Fill (86)
+75,South,0,86,North,0
+# Route 7 Prismaniacity Fill (68) - Route 22 fill (29)
+68,South,0,29,North,169
+# Mamoriacity Fill (78) - Route 22 fill (29)
+78,West,76,29,East,0
+# Mamoriacity Fill 2 (79) - Route 22 fill (29)
+79,South,0,29,North,10
+# Vertania City fill (32) - Route 22 fill (29)
+32,North,0,29,South,80
+# Route 2 Fill (15) - Route 22 fill (29)
+15,West,0,29,East,0
+# Route 11 (73) - Route 22 fill (29)
+73,North,0,29,South,277
+# Route 22 (16) - Route 22 fill (29)
+16,North,19,29,South,0
+# Vertaniacity (7) - Route 22 fill (29)
+7,North,0,29,South,41
+# Mamoriacity (17) - Route 22 fill (29)
+17,West,51,29,East,0
+# Route 3 fill (46) - Route 22 fill (29)
+46,South,0,29,North,79
+# Route 7 Prismaniacity Fill (68) - Prismaniacity Fill (67)
+68,South,0,67,North,11
+# Mamoriacity Fill 2 (79) - Prismaniacity Fill (67)
+79,South,148,67,North,0
+# Route 17 (63) - Prismaniacity Fill (67)
+63,East,0,67,West,46
+# Route 16 (64) - Prismaniacity Fill (67)
+64,East,0,67,West,0
+# Mamoriacity (17) - Prismaniacity Fill (67)
+17,South,128,67,North,0
+# Prismaniacity (65) - Prismaniacity Fill (67)
+65,North,0,67,South,0
+# Route 3 fill (46) - Prismaniacity Fill (67)
+46,South,79,67,North,0
+# Route 7 Fill (84) - Prismaniacity Fill (67)
+84,West,0,67,East,45
+# Saffroniacity (49) - Route 4 (20)
+49,West,0,20,East,70
+# Route 4 fill (21) - Route 4 (20)
+21,East,0,20,West,0
+# Route 6 (69) - Route 4 (20)
+69,West,0,20,East,106
+# Oraniacity (70) - Route 4 (20)
+70,West,0,20,East,141
+# Route 4 fill 2 (34) - Route 4 (20)
+34,South,0,20,North,0
+# Oraniacity Fill (82) - Route 4 (20)
+82,West,0,20,East,177
+# Route 4/Azuriacity fill (35) - Route 4 (20)
+35,North,0,20,South,42
+# Route 24 (37) - Route 4 (20)
+37,West,86,20,East,0
+# Fuchsaniacity (59) - Route 19 Fill (58)
+59,South,0,58,North,60
+# Alabastia fill 2 (31) - Route 19 Fill (58)
+31,East,65,58,West,0
+# Route 19 Fill 2 (88) - Route 19 Fill (58)
+88,West,0,58,East,64
+# Vertania City fill (32) - Route 19 Fill (58)
+32,East,144,58,West,0
+# Route 1 fill 2 (13) - Route 19 Fill (58)
+13,East,101,58,West,0
+# Zinoberinsel (52) - Route 19 Fill (58)
+52,North,61,58,South,0
+# Route 18 (62) - Route 19 Fill (58)
+62,South,0,58,North,0
+# Zinoberinsel Fill (53) - Route 19 Fill (58)
+53,North,91,58,South,0
+# Route 2 fill 2 (36) - Route 19 Fill (58)
+36,East,214,58,West,0
+# Route 20 (55) - Route 19 Fill (58)
+55,North,37,58,South,0
+# Route 20 Fill (56) - Route 19 Fill (58)
+56,East,47,58,West,0
+# Fuchsaniacity (59) - Route 15 (77)
+59,East,0,77,West,25
+# Route 19 Fill 2 (88) - Route 15 (77)
+88,East,0,77,West,130
+# Route 9 (42) - Route 15 (77)
+42,West,232,77,East,0
+# Route 8/11 Fill (80) - Route 15 (77)
+80,West,120,77,East,0
+# Route 8 (71) - Route 15 (77)
+71,West,156,77,East,0
+# Route 11/13/14 Fill (81) - Route 15 (77)
+81,West,57,77,East,0
+# Oraniacity Fill (82) - Route 15 (77)
+82,South,0,77,North,25
+# Route 11 (73) - Route 15 (77)
+73,West,78,77,East,0
+# Fuchsaniacity (59) - Route 18 Fill (87)
+59,West,0,87,East,2
+# Route 18 (62) - Route 18 Fill (87)
+62,North,40,87,South,0
+# Route 1 fill (12) - Alabastia Fill (30)
+12,South,0,30,North,0
+# Route 21 (50) - Alabastia Fill (30)
+50,West,0,30,East,18
+# Route 1 fill 2 (13) - Alabastia Fill (30)
+13,South,0,30,North,40
+# Route 21 Fill (51) - Alabastia Fill (30)
+51,North,10,30,South,0
+# Alabastia (4) - Alabastia Fill (30)
+4,West,0,30,East,0
+# Zinoberinsel (52) - Alabastia Fill (30)
+52,West,0,30,East,109
+# Route 1/22 fill (33) - Alabastia Fill (30)
+33,East,36,30,West,0
+# Route 1 (6) - Alabastia Fill (30)
+6,West,36,30,East,0
+# Route 20 Fill (56) - Alabastia Fill (30)
+56,North,0,30,South,40
+# Saffroniacity (49) - Route 7 Prismaniacity Fill (68)
+49,West,0,68,East,22
+# Route 6 (69) - Route 7 Prismaniacity Fill (68)
+69,West,0,68,East,58
+# Oraniacity (70) - Route 7 Prismaniacity Fill (68)
+70,West,0,68,East,93
+# Route 2 (14) - Route 7 Prismaniacity Fill (68)
+14,North,119,68,South,0
+# Route 2 Fill (15) - Route 7 Prismaniacity Fill (68)
+15,North,139,68,South,0
+# Oraniacity Fill (82) - Route 7 Prismaniacity Fill (68)
+82,West,0,68,East,129
+# Route 4/Azuriacity fill (35) - Route 7 Prismaniacity Fill (68)
+35,South,0,68,North,0
+# Route 16 (64) - Route 7 Prismaniacity Fill (68)
+64,North,59,68,South,0
+# Route 2 fill 2 (36) - Route 7 Prismaniacity Fill (68)
+36,North,94,68,South,0
+# Route 3 fill (46) - Route 7 Prismaniacity Fill (68)
+46,East,0,68,West,6
+# Route 24 (37) - Route 7 Prismaniacity Fill (68)
+37,West,134,68,East,0
+# Route 6 (69) - Saffroniacity (49)
+69,North,0,49,South,0
+# Route 9 (42) - Saffroniacity (49)
+42,West,76,49,East,0
+# Route 8/11 Fill (80) - Saffroniacity (49)
+80,West,0,49,East,36
+# Route 8 (71) - Saffroniacity (49)
+71,West,0,49,East,0
+# Route 11/13/14 Fill (81) - Saffroniacity (49)
+81,West,0,49,East,99
+# Route 4 fill 2 (34) - Saffroniacity (49)
+34,East,85,49,West,0
+# Route 4/Azuriacity fill (35) - Saffroniacity (49)
+35,East,47,49,West,0
+# Route 11 (73) - Saffroniacity (49)
+73,West,0,49,East,78
+# Route 7 Fill (84) - Saffroniacity (49)
+84,East,0,49,West,53
+# Route 4 fill 2 (34) - Route 4 fill (21)
+34,West,15,21,East,0
+# Route 4/Azuriacity fill (35) - Route 4 fill (21)
+35,North,0,21,South,62
+# Route 18 (62) - Fuchsaniacity (59)
+62,East,0,59,West,13
+# Mamoriacity Fill 2 (79) - Mamoriacity Fill (78)
+79,East,0,78,West,15
+# Mamoriacity (17) - Mamoriacity Fill (78)
+17,North,0,78,South,0
+# Route 3 fill (46) - Mamoriacity Fill (78)
+46,West,0,78,East,52
+# Route 1 fill (12) - Alabastia fill 2 (31)
+12,South,40,31,North,0
+# Route 21 (50) - Alabastia fill 2 (31)
+50,North,20,31,South,0
+# Route 1 fill 2 (13) - Alabastia fill 2 (31)
+13,South,0,31,North,0
+# Route 21 Fill (51) - Alabastia fill 2 (31)
+51,North,50,31,South,0
+# Alabastia (4) - Alabastia fill 2 (31)
+4,East,0,31,West,0
+# Route 18 (62) - Alabastia fill 2 (31)
+62,West,0,31,East,37
+# Route 17 (63) - Alabastia fill 2 (31)
+63,West,103,31,East,0
+# Route 1 (6) - Alabastia fill 2 (31)
+6,East,36,31,West,0
+# Route 16 (64) - Alabastia fill 2 (31)
+64,West,149,31,East,0
+# Route 20 Fill (56) - Alabastia fill 2 (31)
+56,North,0,31,South,0
+# Oraniacity (70) - Route 6 (69)
+70,North,0,69,South,0
+# Route 9 (42) - Route 6 (69)
+42,West,112,69,East,0
+# Route 8/11 Fill (80) - Route 6 (69)
+80,West,0,69,East,0
+# Route 8 (71) - Route 6 (69)
+71,West,36,69,East,0
+# Route 11/13/14 Fill (81) - Route 6 (69)
+81,West,0,69,East,63
+# Route 4 fill 2 (34) - Route 6 (69)
+34,East,121,69,West,0
+# Route 4/Azuriacity fill (35) - Route 6 (69)
+35,East,83,69,West,0
+# Route 11 (73) - Route 6 (69)
+73,West,0,69,East,42
+# Route 7 Fill (84) - Route 6 (69)
+84,East,0,69,West,17
+# Route 21 (50) - Route 1 fill (12)
+50,West,0,12,East,54
+# Vertania City fill (32) - Route 1 fill (12)
+32,South,0,12,North,51
+# Alabastia (4) - Route 1 fill (12)
+4,West,0,12,East,36
+# Zinoberinsel (52) - Route 1 fill (12)
+52,West,0,12,East,145
+# Route 1/22 fill (33) - Route 1 fill (12)
+33,East,0,12,West,0
+# Route 1 (6) - Route 1 fill (12)
+6,West,0,12,East,0
+# Route 22 (16) - Route 1 fill (12)
+16,South,48,12,North,0
+# Vertaniacity (7) - Route 1 fill (12)
+7,South,0,12,North,12
+# Route 1 fill 2 (13) - Route 21 (50)
+13,West,54,50,East,0
+# Route 21 Fill (51) - Route 21 (50)
+51,East,0,50,West,0
+# Alabastia (4) - Route 21 (50)
+4,South,0,50,North,0
+# Zinoberinsel (52) - Route 21 (50)
+52,North,0,50,South,0
+# Zinoberinsel Fill (53) - Route 21 (50)
+53,North,30,50,South,0
+# Route 20 (55) - Route 21 (50)
+55,North,0,50,South,24
+# Route 20 Fill (56) - Route 21 (50)
+56,West,0,50,East,0
+# Route 20 Fill 2 (89) - Route 19 Fill 2 (88)
+89,East,0,88,West,0
+# Zinoberinsel (52) - Route 19 Fill 2 (88)
+52,South,131,88,North,0
+# Zinoberinsel Fill (53) - Route 19 Fill 2 (88)
+53,South,161,88,North,0
+# Route 20 (55) - Route 19 Fill 2 (88)
+55,East,20,88,West,0
+# Route 2 (14) - Mamoriacity Fill 2 (79)
+14,North,0,79,South,40
+# Route 2 Fill (15) - Mamoriacity Fill 2 (79)
+15,West,0,79,East,61
+# Route 16 (64) - Mamoriacity Fill 2 (79)
+64,North,0,79,South,100
+# Route 2 fill 2 (36) - Mamoriacity Fill 2 (79)
+36,North,0,79,South,65
+# Mamoriacity (17) - Mamoriacity Fill 2 (79)
+17,West,0,79,East,10
+# Route 1 fill 2 (13) - Vertania City fill (32)
+13,North,11,32,South,0
+# Route 8/11 Fill (80) - Vertania City fill (32)
+80,South,0,32,North,197
+# Route 2 (14) - Vertania City fill (32)
+14,South,30,32,North,0
+# Route 1/22 fill (33) - Vertania City fill (32)
+33,North,96,32,South,0
+# Route 18 (62) - Vertania City fill (32)
+62,West,0,32,East,116
+# Route 2 Fill (15) - Vertania City fill (32)
+15,South,50,32,North,0
+# Route 17 (63) - Vertania City fill (32)
+63,West,24,32,East,0
+# Route 1 (6) - Vertania City fill (32)
+6,North,31,32,South,0
+# Route 16 (64) - Vertania City fill (32)
+64,West,70,32,East,0
+# Vertaniacity (7) - Vertania City fill (32)
+7,East,0,32,West,0
+# Route 2 fill 2 (36) - Vertania City fill (32)
+36,South,5,32,North,0
+# Route 9 (42) - Oraniacity (70)
+42,West,147,70,East,0
+# Route 8/11 Fill (80) - Oraniacity (70)
+80,West,35,70,East,0
+# Route 8 (71) - Oraniacity (70)
+71,West,71,70,East,0
+# Route 11/13/14 Fill (81) - Oraniacity (70)
+81,West,0,70,East,28
+# Route 4 fill 2 (34) - Oraniacity (70)
+34,East,156,70,West,0
+# Oraniacity Fill (82) - Oraniacity (70)
+82,North,0,70,South,0
+# Route 4/Azuriacity fill (35) - Oraniacity (70)
+35,East,118,70,West,0
+# Route 11 (73) - Oraniacity (70)
+73,West,0,70,East,7
+# Route 7 Fill (84) - Oraniacity (70)
+84,East,18,70,West,0
+# Alabastia (4) - Route 1 fill 2 (13)
+4,North,20,13,South,0
+# Route 18 (62) - Route 1 fill 2 (13)
+62,West,0,13,East,73
+# Route 17 (63) - Route 1 fill 2 (13)
+63,West,67,13,East,0
+# Route 1 (6) - Route 1 fill 2 (13)
+6,East,0,13,West,0
+# Route 22 (16) - Route 1 fill 2 (13)
+16,South,88,13,North,0
+# Route 16 (64) - Route 1 fill 2 (13)
+64,West,113,13,East,0
+# Vertaniacity (7) - Route 1 fill 2 (13)
+7,South,28,13,North,0
+# Alabastia (4) - Route 21 Fill (51)
+4,West,18,51,East,0
+# Zinoberinsel (52) - Route 21 Fill (51)
+52,West,0,51,East,91
+# Zinoberinsel Fill (53) - Route 21 Fill (51)
+53,North,0,51,South,0
+# Route 1 (6) - Route 21 Fill (51)
+6,West,54,51,East,0
+# Route 20 (55) - Route 21 Fill (51)
+55,North,0,51,South,54
+# Zinoberinsel (52) - Route 20 Fill 2 (89)
+52,East,20,89,West,0
+# Zinnoberinsel Fill 2 (90) - Route 20 Fill 2 (89)
+90,East,0,89,West,0
+# Zinoberinsel Fill (53) - Route 20 Fill 2 (89)
+53,South,54,89,North,0
+# Route 20 (55) - Route 20 Fill 2 (89)
+55,South,0,89,North,0
+# Zinoberinsel Fill (53) - Alabastia (4)
+53,East,0,4,West,109
+# Route 1 (6) - Alabastia (4)
+6,South,0,4,North,0
+# Route 20 Fill (56) - Alabastia (4)
+56,West,0,4,East,18
+# Lavandia (72) - Route 9 (42)
+72,West,0,42,East,79
+# Oraniacity Fill (82) - Route 9 (42)
+82,East,0,42,West,183
+# Route 10 (54) - Route 9 (42)
+54,West,0,42,East,0
+# Route 12 (74) - Route 9 (42)
+74,West,0,42,East,97
+# Route 24 (37) - Route 9 (42)
+37,East,80,42,West,0
+# Route 8 (71) - Route 8/11 Fill (80)
+71,South,0,80,North,0
+# Lavandia (72) - Route 8/11 Fill (80)
+72,West,33,80,East,0
+# Oraniacity Fill (82) - Route 8/11 Fill (80)
+82,East,0,80,West,71
+# Route 10 (54) - Route 8/11 Fill (80)
+54,West,112,80,East,0
+# Route 11 (73) - Route 8/11 Fill (80)
+73,North,0,80,South,0
+# Route 22 (16) - Route 8/11 Fill (80)
+16,North,296,80,South,0
+# Vertaniacity (7) - Route 8/11 Fill (80)
+7,North,236,80,South,0
+# Route 12 (74) - Route 8/11 Fill (80)
+74,West,15,80,East,0
+# Route 24 (37) - Route 8/11 Fill (80)
+37,East,192,80,West,0
+# Route 2 Fill (15) - Route 2 (14)
+15,East,0,14,West,0
+# Route 11 (73) - Route 2 (14)
+73,North,0,14,South,227
+# Route 22 (16) - Route 2 (14)
+16,North,69,14,South,0
+# Vertaniacity (7) - Route 2 (14)
+7,North,9,14,South,0
+# Route 2 fill 2 (36) - Route 2 (14)
+36,West,0,14,East,0
+# Mamoriacity (17) - Route 2 (14)
+17,South,20,14,North,0
+# Route 3 fill (46) - Route 2 (14)
+46,South,0,14,North,29
+# Zinnoberinsel Fill 2 (90) - Zinoberinsel (52)
+90,North,11,52,South,0
+# Zinoberinsel Fill (53) - Zinoberinsel (52)
+53,East,0,52,West,0
+# Route 20 (55) - Zinoberinsel (52)
+55,West,0,52,East,0
+# Route 20 Fill (56) - Zinoberinsel (52)
+56,South,0,52,North,20
+# Zinoberinsel Fill (53) - Zinnoberinsel Fill 2 (90)
+53,South,19,90,North,0
+# Route 20 (55) - Zinnoberinsel Fill 2 (90)
+55,West,20,90,East,0
+# Route 22 (16) - Route 1/22 fill (33)
+16,South,3,33,North,0
+# Vertaniacity (7) - Route 1/22 fill (33)
+7,South,0,33,North,57
+# Lavandia (72) - Route 8 (71)
+72,West,0,71,East,3
+# Oraniacity Fill (82) - Route 8 (71)
+82,East,0,71,West,107
+# Route 10 (54) - Route 8 (71)
+54,West,76,71,East,0
+# Route 12 (74) - Route 8 (71)
+74,West,0,71,East,21
+# Route 24 (37) - Route 8 (71)
+37,East,156,71,West,0
+# Lavandia (72) - Route 11/13/14 Fill (81)
+72,West,96,81,East,0
+# Oraniacity Fill (82) - Route 11/13/14 Fill (81)
+82,East,0,81,West,8
+# Route 10 (54) - Route 11/13/14 Fill (81)
+54,West,175,81,East,0
+# Route 11 (73) - Route 11/13/14 Fill (81)
+73,South,0,81,North,0
+# Route 12 (74) - Route 11/13/14 Fill (81)
+74,West,78,81,East,0
+# Route 24 (37) - Route 11/13/14 Fill (81)
+37,East,255,81,West,0
+# Route 13 (75) - Route 11/13/14 Fill (81)
+75,North,0,81,South,20
+# Route 17 (63) - Route 18 (62)
+63,South,0,62,North,0
+# Route 2 fill 2 (36) - Route 18 (62)
+36,East,186,62,West,0
+# Route 20 Fill (56) - Route 18 (62)
+56,East,19,62,West,0
+# Route 11 (73) - Route 2 Fill (15)
+73,North,0,15,South,247
+# Route 22 (16) - Route 2 Fill (15)
+16,North,49,15,South,0
+# Vertaniacity (7) - Route 2 Fill (15)
+7,North,0,15,South,11
+# Mamoriacity (17) - Route 2 Fill (15)
+17,South,0,15,North,0
+# Route 3 fill (46) - Route 2 Fill (15)
+46,South,0,15,North,49
+# Route 1 (6) - Zinoberinsel Fill (53)
+6,West,145,53,East,0
+# Route 20 Fill (56) - Zinoberinsel Fill (53)
+56,South,0,53,North,50
+# Oraniacity Fill (82) - Route 4 fill 2 (34)
+82,West,0,34,East,192
+# Route 24 (37) - Route 4 fill 2 (34)
+37,West,71,34,East,0
+# Route 10 (54) - Lavandia (72)
+54,South,0,72,North,0
+# Route 11 (73) - Lavandia (72)
+73,East,0,72,West,75
+# Route 12 (74) - Lavandia (72)
+74,North,0,72,South,0
+# Route 16 (64) - Route 17 (63)
+64,South,0,63,North,0
+# Prismaniacity Fill 2 (83) - Route 17 (63)
+83,West,0,63,East,10
+# Route 2 fill 2 (36) - Route 17 (63)
+36,East,46,63,West,0
+# Prismaniacity (65) - Route 17 (63)
+65,West,26,63,East,0
+# Route 20 Fill (56) - Route 17 (63)
+56,East,0,63,West,121
+# Route 22 (16) - Route 1 (6)
+16,South,68,6,North,0
+# Vertaniacity (7) - Route 1 (6)
+7,South,8,6,North,0
+# Route 20 Fill (56) - Route 1 (6)
+56,West,0,6,East,54
+# Route 4/Azuriacity fill (35) - Oraniacity Fill (82)
+35,East,154,82,West,0
+# Route 11 (73) - Oraniacity Fill (82)
+73,West,29,82,East,0
+# Route 7 Fill (84) - Oraniacity Fill (82)
+84,East,54,82,West,0
+# Route 11 (73) - Route 10 (54)
+73,East,0,54,West,154
+# Route 24 (37) - Route 10 (54)
+37,South,99,54,North,0
+# Route 3 fill (46) - Route 4/Azuriacity fill (35)
+46,East,0,35,West,31
+# Route 24 (37) - Route 4/Azuriacity fill (35)
+37,West,109,35,East,0
+# Route 2 fill 2 (36) - Route 11 (73)
+36,South,202,73,North,0
+# Route 12 (74) - Route 11 (73)
+74,West,57,73,East,0
+# Route 24 (37) - Route 11 (73)
+37,East,234,73,West,0
+# Vertaniacity (7) - Route 22 (16)
+7,West,0,16,East,0
+# Route 2 fill 2 (36) - Route 22 (16)
+36,South,0,16,North,94
+# Route 5 (47) - Mondberg 1. Untergeschoss C (26)
+47,0,261,26,367,0
+# Prismaniacity Fill 2 (83) - Route 16 (64)
+83,West,0,64,East,56
+# Route 2 fill 2 (36) - Route 16 (64)
+36,East,0,64,West,0
+# Mamoriacity (17) - Route 16 (64)
+17,South,80,64,North,0
+# Prismaniacity (65) - Route 16 (64)
+65,West,0,64,East,20
+# Route 3 fill (46) - Route 16 (64)
+46,South,31,64,North,0
+# Route 20 Fill (56) - Route 16 (64)
+56,East,0,64,West,167
+# Route 2 fill 2 (36) - Vertaniacity (7)
+36,South,0,7,North,34
+# Prismaniacity (65) - Prismaniacity Fill 2 (83)
+65,South,0,83,North,0
+# Route 7 Fill (84) - Prismaniacity Fill 2 (83)
+84,West,11,83,East,0
+# Mamoriacity (17) - Route 2 fill 2 (36)
+17,South,45,36,North,0
+# Route 3 fill (46) - Route 2 fill 2 (36)
+46,South,0,36,North,4
+# Route 13 (75) - Route 12 (74)
+75,North,39,74,South,0
+# Route 3 fill (46) - Mamoriacity (17)
+46,West,0,17,East,27
+# Route 20 Fill (56) - Route 20 (55)
+56,South,4,55,North,0
+# Route 7 Fill (84) - Prismaniacity (65)
+84,West,0,65,East,25
+# Route 24 (37) - Route 7 Fill (84)
+37,West,209,84,East,0
